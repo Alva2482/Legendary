@@ -1,0 +1,97 @@
+#root{
+  background-color: #7c0c0c;
+}
+
+.foto-portada{
+  background-image: url("/public/banner.jpg");
+  width: 100vw;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.barra{
+  background: linear-gradient(to bottom, black 0%,
+   rgba(0, 0, 0, 0.738) 19%, 
+   rgba(0, 0, 0, 0.541) 34%,
+    rgba(0, 0, 0, 0.382) 47%, 
+    rgba(0, 0, 0, 0.278) 56.5%, rgba(0, 0, 0, 0.194) 
+    65%, rgba(0, 0, 0, 0.126) 
+    73%, rgba(0, 0, 0, 0.075) 80.2%,
+     rgba(0, 0, 0, 0.042) 86.1%, 
+     rgba(0, 0, 0, 0.021) 91%,
+      rgba(0, 0, 0, 0.008) 95.2%,
+       rgba(0, 0, 0, 0.002) 98.2%, transparent 100%) !important;
+  z-index: 65405;
+}
+
+.texto-portada-vision{
+  margin-top: 1rem;
+  text-align: left;
+  margin-top: -3%;
+color: rgb(255, 255, 255) ;
+
+}
+
+
+.navbar-light .navbar-toggler{
+  border-color: var(--bs-warning) !important;
+  color: var(--bs-warning) !important;
+}
+.card-title{
+  padding: 1rem;
+  text-align: center;
+  background-color: beige;
+  margin-bottom: .5rem;
+}
+
+.card-title.h5{
+  font-size: 1.1rem;
+  background-color: #fafafa;
+}
+
+
+
+.cursos{
+  text-align: center;
+    padding: 1rem;
+    border-bottom: 1px solid black;
+}
+
+.card-body{
+  min-height: 500px;
+  
+  background-color: rgb(216, 216, 216);
+  
+}
+
+.card-text{
+  margin-top: 20px;
+  color: #000000;
+}
+
+.btn.btn-outline-warning {
+  color: #ff0707;
+  border-color: #ff0707;
+  border-radius: 0%;
+}
+
+.container{
+ background-color: #411111;
+ border-color: #fa0000;
+ margin-top: 20px;
+ 
+}
+
+.btn.btn-outline-success{
+  position: relative;
+  bottom: 5%;
+  padding-inline: 92px;
+  color: #fa0000;
+  border-color: #fa0000;
+  
+}
+
+
