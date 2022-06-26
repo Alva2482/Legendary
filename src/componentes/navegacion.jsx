@@ -4,7 +4,7 @@ import { Route, Routes, BrowserRouter, Link } from "react-router-dom";
 import Home from "../Pages/Home";
 import Contacto from "../Pages/Contacto"
 import Institucional from "../Pages/Institucional"
-import logoCFL from "../assets/logoCFL.png"
+import legendarylogo from "../assets/legendarylogo.png"
 import "../App.css"
 
 const Navegacion = () => {
@@ -18,7 +18,7 @@ const Navegacion = () => {
                     <Container fluid>
                         <Navbar.Brand as={Link} to="/inicio">
                             <img
-                                src={logoCFL}
+                                src={legendarylogo}
                                 width="150px"
                                 height="80px"
                                 className="d-inline-block align-center ml-3"

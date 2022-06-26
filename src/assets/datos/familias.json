@@ -2,7 +2,7 @@
     {
         
         "dlc": "Arena de Motores",
-        "pasajeros": "2 pasajeros",
+        "pasajeros": "2 asientos",
         "modelo": "Principe Deveste Eight",
         "precio": "$1.795.000",
         "foto": "./imagenescards/deveste.jpg"
@@ -10,7 +10,7 @@
     {
         
         "dlc": "The Contract",
-        "pasajeros": "2 pasajeros",
+        "pasajeros": "2 asientos",
         "modelo": "Overflod Zeno",
         "precio": "$2.820.000",
         "foto": "./imagenescards/Zeno.jpg"
@@ -19,7 +19,7 @@
     {
         
         "dlc": "Los Santos Summer Special",
-        "pasajeros": "1 pasajero",
+        "pasajeros": "1 asientos",
         "modelo": "Benefactor BR8",
         "precio": "$3.400.000",
         "foto": "./imagenescards/Br8.jpg"
@@ -28,7 +28,7 @@
     {
         
         "dlc": "The Diamond Casino & Resort",
-        "pasajeros": "2 pasajeros",
+        "pasajeros": "2 asientos",
         "modelo": "Benefactor Krieger",
         "precio": "$2.875.000",
         "foto": "./imagenescards/Krieger.jpg"
@@ -36,14 +36,14 @@
     {
         
         "dlc": "Further Adventures in Finance and Felony",
-        "pasajeros": "2 pasajeros",
+        "pasajeros": "2 asientos",
         "modelo": "Pegassi Reaper",
         "precio": "$1.595.000",
         "foto": "./imagenescards/Reaper.jpg"
     },
     {
         "dlc": "Tráfico de Armas",
-        "pasajeros": "2 pasajeros",
+        "pasajeros": "2 asientos",
         "modelo": "Ocelot XA-21",
         "precio": "$2.375.000",
         "foto": "./imagenescards/XA21.jpg"
